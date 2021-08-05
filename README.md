@@ -1,0 +1,3 @@
+- 👋 Hi, I’m ✨ filip-porebski ✨
+- 🌱 I’m currently learning machine learning and deep learning.
+- 📫 How to reach me? Just by e-mail: porebskif@gmail.com
