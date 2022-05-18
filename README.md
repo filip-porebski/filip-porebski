@@ -1,3 +1,3 @@
 - 👋 Hi, I’m ✨ filip-porebski ✨
-- 🌱 I’m currently learning machine learning and deep learning.
+- 🌱 VBA/Python
 - 📫 How to reach me? Just by e-mail: porebskif@gmail.com
