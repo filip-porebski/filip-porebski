@@ -1,3 +1,3 @@
 # 🤵🏽 Filip Porebski
 
-**'Finance | Business Analysis | System Analysis | Data processing'**
+**`Finance | Business Analysis | System Analysis | Data processing`**
