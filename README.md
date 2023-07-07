@@ -1,3 +1,3 @@
-- 👋 Hi, I’m ✨ filip-porebski ✨
-- 🌱 VBA/Python
-- 📫 How to reach me? Just by e-mail: porebskif@gmail.com
+# 🤵🏽 Filip Porebski
+
+**'Finance | Business Analysis | System Analysis | Data processing'**
