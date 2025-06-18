@@ -7,5 +7,5 @@
 
 ## 🌐 Live Projects (websites)
 
-- **Typing Typing** - speed-typing web app → [typytyping.onrender.com](https://typytyping.onrender.com/)
-- **PokeMMO Daycare Mastermind** - planning helper for PokeMMO daycare breeding → [pokemmo-daycare-mastermind.vercel.app](https://pokemmo-daycare-mastermind.vercel.app/)
+- [typytyping.onrender.com](https://typytyping.onrender.com/) — **Typing Typing** – speed-typing web app
+- [pokemmo-daycare-mastermind.vercel.app](https://pokemmo-daycare-mastermind.vercel.app/) — **PokeMMO Daycare Mastermind** – planning helper for PokeMMO daycare breeding
