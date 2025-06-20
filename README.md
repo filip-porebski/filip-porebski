@@ -9,4 +9,4 @@
 
 - [typytyping.onrender.com](https://typytyping.onrender.com/) — **Typing Typing** – speed-typing web app
 - [pokemmo-daycare-mastermind.vercel.app](https://pokemmo-daycare-mastermind.vercel.app/) — **PokeMMO Daycare Mastermind** – planning helper for PokeMMO daycare breeding
-- [filip-porebski.github.io/work-worth](https://filip-porebski.github.io/work-worth/) — **Work Worth** – work-time cost calculator for any purchase :contentReference[oaicite:0]{index=0}
+- [filip-porebski.github.io/work-worth](https://filip-porebski.github.io/work-worth/) — **Work Worth** – work-time cost calculator for any purchase
